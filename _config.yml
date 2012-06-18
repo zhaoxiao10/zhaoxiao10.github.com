@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 他山之石
-tagline: 可以攻玉
+title : 元素周期表
+tagline: 他山之石
 author :
   name : Name Lastname
   email : zhaoxiao10@gmail.com
