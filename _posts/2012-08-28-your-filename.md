@@ -1,9 +1,8 @@
 ---
 layout: default
-published: false
+published: true
 ---
 
 # How does it work?
 
 Enter Text in Markdown format.
-This is a example
