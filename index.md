@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 没吃过元素周期表不算CHINAREN!
-tagline: 还没吃够？
+tagline: realy？
 ---
 {% include JB/setup %}
 
